@@ -8,8 +8,8 @@
       	
 		{"key": "高清影视","name": "高清影视","type": 3,
 		"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
-		"ext": {
-		 "数组": "<div class=\"entry-card\">&&</h2>",
+		"ext": { "数组二次截取": "<div class=\"entry-cards\">&&<nav class=\"ct-pagination\"",
+		 "数组": "<div class=\"entry-card\">&&</h2></div>",
         "图片": "src=\"&&\"",
         "标题": "alt=\"&&\"",
         "简介": "⚠️慢点撸，皮要掉了！！！",
@@ -20,7 +20,8 @@
 		 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
         "分类url": "https://uuhkd.com/{cateId}/page/{catePg}/",
 	
-        "分类": "制服诱惑$ybtgi#日本女优$bzckj#独家DMM$xxanb#淫娃自慰$izlzb#翹臀美尻y$jpstx"}},
+        "分类": "制服诱惑$ybtgi#日本女优$bzckj#独家DMM$xxanb#淫娃自慰$izlzb#翹臀美尻y$jpstx"}
+		},
 
 
 
