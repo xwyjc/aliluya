@@ -6,28 +6,12 @@
 
 
       	
-		{"key": "高清影视","name": "高清影视","type": 3,
-		"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
-		"ext": { "数组二次截取": "<div class=\"entry-cards\">&&<nav class=\"ct-pagination\"",
-		 "数组": "<div class=\"entry-card\">&&</h2></div>",
-        "图片": "src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "简介": "⚠️慢点撸，皮要掉了！！！",
-		 "链接": "href=\"&&\"",
-		 "搜索模式":"1",
-         "搜索url":"https://kanav.ad/index.php/vod/search.html?wd={wd}&by=time_add",
-		"直接播放": "1",
-		 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "分类url": "https://uuhkd.com/{cateId}/page/{catePg}/",
 	
-        "分类": "制服诱惑$ybtgi#日本女优$bzckj#独家DMM$xxanb#淫娃自慰$izlzb#翹臀美尻y$jpstx"}
-		},
-
 
 
 
         
-      {"key":"精品推荐","name":"🈴精品推荐🈴","type":3,
+      {"key":"精品推荐","name":"🈴秘密仓库🈴","type":3,
 	  "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	  "ext":{
            
@@ -41,7 +25,7 @@
             "搜索模式":"1",
             "搜索url":"https://uuhkd.com/search/?q={wd}",
 			 "直接播放": "1",
-             "分类":"中字$11#骑兵$10#美乳$12人妻$20#强奸$13#萝莉$15#制服$23#射源$24#精品$25#凌辱$32#女优$39练腿$49",
+             "分类":"视频一区$1#视频二区$2#视频三区$3视频四区$4#视频五区$5",
             "分类url":"https://www.mmck1508.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
 		
 			}},
